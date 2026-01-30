@@ -1,0 +1,194 @@
+{
+  "sugar": [
+    "sucre",
+    "az\u00facar",
+    "zucker",
+    "sucre",
+    "cukor",
+    "socker",
+    "cukr",
+    "zahar",
+    "\u015feker",
+    "zah\u00e1r",
+    "sukker"
+  ],
+  "glucose": [
+    "glucose",
+    "glucosa",
+    "glukose",
+    "glucosio",
+    "glikoz",
+    "glicose",
+    "glykose"
+  ],
+  "fructose": [
+    "fructose",
+    "fructosa",
+    "fruktose",
+    "fruttosio",
+    "fruktoz",
+    "frutose"
+  ],
+  "honey": [
+    "honey",
+    "miel",
+    "honig",
+    "miele",
+    "med",
+    "bal",
+    "m\u00e9z",
+    "hunaja"
+  ],
+  "salt": [
+    "salt",
+    "sel",
+    "salz",
+    "sale",
+    "s\u00f3",
+    "tuz",
+    "sare",
+    "suola",
+    "zout",
+    "so\u013e",
+    "s\u016fl"
+  ],
+  "sodium": [
+    "sodium",
+    "sodio",
+    "natrium",
+    "sod\u00edk",
+    "n\u00e1trium",
+    "s\u00f3dio"
+  ],
+  "trans fat": [
+    "trans fat",
+    "gras trans",
+    "transfett",
+    "grasso trans",
+    "trans zs\u00edr",
+    "transfet"
+  ],
+  "saturated fat": [
+    "saturated fat",
+    "gras satur\u00e9",
+    "ges\u00e4ttigtes fett",
+    "grasso saturo",
+    "tel\u00edtett zs\u00edr"
+  ],
+  "palm oil": [
+    "palm oil",
+    "huile de palme",
+    "palm\u00f6l",
+    "olio di palma",
+    "p\u00e1lmaolaj",
+    "olej palmowy"
+  ],
+  "gluten": [
+    "gluten",
+    "gluten",
+    "gluten",
+    "gluten",
+    "glut\u00e9n",
+    "gluten",
+    "\u0433\u043b\u044e\u0442\u0435\u043d"
+  ],
+  "wheat": [
+    "wheat",
+    "bl\u00e9",
+    "weizen",
+    "grano",
+    "frumento",
+    "b\u00faza",
+    "trigo",
+    "pszenica"
+  ],
+  "barley": [
+    "barley",
+    "orge",
+    "gerste",
+    "cebada",
+    "orzo",
+    "\u00e1rpa",
+    "j\u0119czmie\u0144"
+  ],
+  "milk": [
+    "milk",
+    "lait",
+    "milch",
+    "leche",
+    "latte",
+    "tej",
+    "mlijeko",
+    "mj\u00f6lk"
+  ],
+  "lactose": [
+    "lactose",
+    "lactose",
+    "laktose",
+    "lactosa",
+    "lattosio",
+    "lakt\u00f3z",
+    "laktoza"
+  ],
+  "cheese": [
+    "cheese",
+    "fromage",
+    "k\u00e4se",
+    "queso",
+    "formaggio",
+    "sajt",
+    "queijo",
+    "ser"
+  ],
+  "peanut": [
+    "peanut",
+    "arachide",
+    "erdnuss",
+    "cacahuete",
+    "arachidi",
+    "f\u00f6ldimogyor\u00f3",
+    "amendoim"
+  ],
+  "soy": [
+    "soy",
+    "soja",
+    "soja",
+    "soja",
+    "soia",
+    "sz\u00f3ja",
+    "soja",
+    "\u0441\u043e\u044f"
+  ],
+  "egg": [
+    "egg",
+    "\u0153uf",
+    "ei",
+    "huevo",
+    "uovo",
+    "toj\u00e1s",
+    "ovo",
+    "jajko"
+  ],
+  "msg": [
+    "msg",
+    "glutamate",
+    "e621",
+    "monosodium glutamate",
+    "natriumglutamat"
+  ],
+  "nitrate": [
+    "nitrate",
+    "nitrate",
+    "nitrat",
+    "nitrato",
+    "nitrato",
+    "nitr\u00e1t"
+  ],
+  "benzoate": [
+    "benzoate",
+    "benzoate",
+    "benzoat",
+    "benzoato",
+    "benzo\u00e1t"
+  ]
+}

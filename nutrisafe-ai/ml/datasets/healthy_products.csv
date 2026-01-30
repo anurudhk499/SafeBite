@@ -1,0 +1,102 @@
+product_name,category,sugars_100g,salt_100g,saturated_fat_100g,fiber_100g,proteins_100g,energy_kcal_100g,health_score
+Quaker Oats Old Fashioned,Grains,1.0,0.01,0.5,10.0,13.0,389,92
+Siggis Icelandic Yogurt,Dairy,4.0,0.05,2.5,0.0,15.0,130,88
+Blue Diamond Almonds,Nuts,2.0,0.0,4.0,12.0,21.0,579,94
+Amy's Lentil Soup,Vegetables,3.0,0.4,0.5,7.0,9.0,120,85
+Kind Dark Chocolate Bar,Snacks,5.0,0.1,6.0,7.0,12.0,200,82
+San Pellegrino Water,Beverages,0.0,0.0,0.0,0.0,0.0,0,98
+Beyond Meat Burger,Proteins,0.0,0.8,5.0,2.0,20.0,250,87
+Rao's Marinara Sauce,Condiments,6.0,0.3,0.5,2.0,2.0,80,90
+Chobani Zero Sugar Yogurt,Dairy,0.0,0.08,1.5,0.0,12.0,70,91
+Banza Chickpea Pasta,Grains,2.0,0.05,0.5,8.0,25.0,330,89
+LaCroix Sparkling Water,Beverages,0.0,0.0,0.0,0.0,0.0,0,96
+RxBar Protein Bar,Snacks,13.0,0.35,1.0,5.0,12.0,210,83
+Wild Planet Salmon,Proteins,0.0,0.4,2.0,0.0,25.0,180,93
+Terra Sweet Potato Chips,Snacks,4.0,0.1,2.0,4.0,2.0,140,79
+Bob's Red Mill Oats,Grains,1.0,0.0,0.5,10.0,13.0,150,94
+Simple Mills Crackers,Snacks,0.0,0.3,3.0,4.0,8.0,160,87
+Coconut Water,Beverages,6.0,0.05,0.0,0.0,0.0,45,88
+Applegate Turkey Breast,Proteins,0.0,0.8,1.0,0.0,18.0,90,89
+Navitas Cacao Nibs,Snacks,1.0,0.0,8.0,9.0,12.0,130,92
+Oatly Oat Milk,Dairy,2.0,0.1,0.5,1.0,2.0,46,84
+Dave's Killer Bread,Grains,5.0,0.4,0.5,5.0,5.0,100,86
+Perfect Bar,Snacks,15.0,0.2,3.0,3.0,17.0,330,82
+Stonyfield Yogurt,Dairy,6.0,0.09,2.0,0.0,6.0,100,85
+Justin's Almond Butter,Nuts,3.0,0.1,2.0,4.0,7.0,210,88
+Halo Top Ice Cream,Dairy,7.0,0.15,3.0,6.0,20.0,90,80
+Epic Protein Bar,Proteins,3.0,0.6,4.0,0.0,12.0,150,84
+Purely Elizabeth Granola,Grains,8.0,0.1,1.0,4.0,9.0,140,81
+Green Giant Veggie Tots,Vegetables,1.0,0.3,0.5,4.0,3.0,110,83
+Annie's Mac and Cheese,Grains,3.0,0.6,3.0,1.0,10.0,320,75
+Luna Protein Bar,Snacks,8.0,0.25,2.0,5.0,12.0,180,84
+No Cow Protein Bar,Snacks,1.0,0.4,2.0,15.0,22.0,210,89
+Think! Protein Bar,Snacks,2.0,0.3,5.0,8.0,20.0,230,86
+Quest Protein Chip,Snacks,1.0,1.2,2.0,5.0,18.0,140,82
+Bai Antioxidant Drink,Beverages,1.0,0.0,0.0,0.0,0.0,10,91
+Sparkling Ice Water,Beverages,0.0,0.0,0.0,0.0,0.0,0,97
+Hint Flavored Water,Beverages,0.0,0.0,0.0,0.0,0.0,0,99
+Spindrift Sparkling,Beverages,2.0,0.0,0.0,0.0,0.0,8,95
+Zevia Soda,Beverages,0.0,0.0,0.0,0.0,0.0,0,96
+Olipop Prebiotic Soda,Beverages,5.0,0.0,0.0,9.0,0.0,35,88
+Poppi Prebiotic Soda,Beverages,5.0,0.0,0.0,2.0,0.0,25,86
+Impossible Burger,Proteins,0.0,0.9,8.0,3.0,19.0,240,84
+Morningstar Farms Veggie,Proteins,2.0,0.5,1.0,4.0,13.0,150,82
+Gardein Plant Based,Proteins,1.0,0.4,0.5,4.0,15.0,140,85
+Field Roast Sausage,Proteins,2.0,0.8,2.0,2.0,25.0,280,83
+Lightlife Smart Dogs,Proteins,1.0,0.6,0.5,2.0,13.0,60,87
+Upton's Seitan,Proteins,2.0,0.7,0.5,2.0,21.0,120,89
+Sweet Earth Seitan,Proteins,3.0,0.9,1.0,3.0,28.0,160,84
+Primal Kitchen Mayo,Condiments,0.0,0.4,5.0,0.0,0.0,100,83
+Sir Kensington Mayo,Condiments,0.0,0.5,5.0,0.0,0.0,90,82
+Chosen Foods Avocado Oil,Condiments,0.0,0.0,2.0,0.0,0.0,120,94
+Nutpods Creamer,Dairy,0.0,0.0,0.5,0.0,0.0,10,92
+Califia Almond Milk,Dairy,0.0,0.1,0.0,1.0,1.0,35,93
+Ripple Milk,Dairy,0.0,0.1,0.5,0.0,8.0,80,90
+Kite Hill Yogurt,Dairy,5.0,0.05,2.0,0.0,6.0,120,85
+Forager Yogurt,Dairy,4.0,0.06,2.0,0.0,5.0,110,86
+Miyoko's Cheese,Dairy,1.0,0.3,6.0,0.0,4.0,100,82
+Violife Cheese,Dairy,0.0,1.8,12.0,0.0,0.0,250,76
+So Delicious Ice Cream,Dairy,12.0,0.1,7.0,1.0,3.0,200,74
+NadaMoo Ice Cream,Dairy,10.0,0.08,6.0,2.0,1.0,180,78
+Hu Chocolate,Snacks,2.0,0.0,12.0,4.0,4.0,220,86
+Lily's Chocolate,Snacks,0.0,0.0,12.0,8.0,4.0,200,89
+Enjoy Life Chocolate,Snacks,12.0,0.0,8.0,4.0,3.0,210,82
+Unreal Chocolate,Snacks,8.0,0.0,9.0,4.0,4.0,230,84
+Alter Eco Chocolate,Snacks,14.0,0.0,11.0,5.0,4.0,240,80
+Barnana Chips,Snacks,12.0,0.0,1.0,4.0,1.0,120,83
+Siete Tortilla Chips,Snacks,0.0,0.3,1.0,2.0,2.0,140,87
+Brad's Plant Chips,Snacks,3.0,0.2,1.0,4.0,4.0,130,85
+Jackson's Sweet Potato,Snacks,1.0,0.1,0.5,3.0,2.0,130,88
+Bare Apple Chips,Snacks,10.0,0.0,0.0,4.0,1.0,100,84
+That's It Fruit Bar,Snacks,12.0,0.0,0.0,3.0,1.0,100,86
+GoMacro Protein Bar,Snacks,10.0,0.1,1.0,4.0,11.0,260,85
+88 Acres Seed Bar,Snacks,8.0,0.2,1.0,5.0,10.0,220,87
+Bulletproof Collagen,Proteins,0.0,0.0,0.0,0.0,20.0,80,92
+Vital Proteins Collagen,Proteins,0.0,0.0,0.0,0.0,18.0,70,93
+Orgain Protein Powder,Proteins,2.0,0.3,1.0,5.0,21.0,150,90
+Garden of Life Protein,Proteins,1.0,0.2,0.5,6.0,22.0,130,92
+Sunwarrior Protein,Proteins,0.0,0.1,0.5,3.0,20.0,110,94
+KOS Protein Powder,Proteins,2.0,0.2,1.0,8.0,25.0,140,89
+Bob's Red Mill Protein,Proteins,1.0,0.0,0.5,3.0,15.0,110,91
+Now Sports Protein,Proteins,1.0,0.1,1.0,1.0,24.0,120,88
+Nutiva Hemp Protein,Proteins,2.0,0.0,1.0,12.0,15.0,120,90
+Anthony's Pea Protein,Proteins,0.0,0.0,0.5,2.0,24.0,100,93
+Navitas Hemp Seeds,Nuts,2.0,0.0,2.0,4.0,33.0,567,94
+Terrasoul Chia Seeds,Nuts,0.0,0.0,1.0,34.0,17.0,486,96
+Viva Naturals Flax,Nuts,2.0,0.0,1.0,27.0,18.0,534,95
+NOW Foods Pumpkin,Nuts,1.0,0.0,2.0,6.0,30.0,574,92
+Food to Live Walnuts,Nuts,1.0,0.0,4.0,7.0,15.0,654,93
+Kirkland Cashews,Nuts,5.0,0.0,3.0,3.0,18.0,553,89
+365 Pecan Halves,Nuts,4.0,0.0,2.0,10.0,9.0,690,90
+Trader Joe's Pistachios,Nuts,8.0,0.0,2.0,10.0,21.0,560,88
+Whole Foods Brazil,Nuts,2.0,0.0,4.0,8.0,14.0,656,91
+Bobs Red Mill Flax,Grains,2.0,0.0,1.0,27.0,18.0,534,95
+Arrowhead Mills Quinoa,Grains,2.0,0.0,0.5,5.0,14.0,368,92
+Lundberg Brown Rice,Grains,1.0,0.0,0.5,2.0,7.0,360,90
+Ancient Harvest Pasta,Grains,1.0,0.0,0.5,4.0,14.0,340,88
+Jovial Pasta,Grains,1.0,0.0,0.5,2.0,13.0,350,87
+Tinkyada Pasta,Grains,1.0,0.0,0.5,5.0,14.0,360,89
+DeLallo Pasta,Grains,1.0,0.0,0.5,2.0,13.0,370,86
+Ronzoni Pasta,Grains,1.0,0.0,0.5,2.0,13.0,371,85
+Barilla Protein Pasta,Grains,2.0,0.0,0.5,2.0,20.0,375,87
+Explore Cuisine Pasta,Grains,1.0,0.0,0.5,6.0,25.0,330,91
