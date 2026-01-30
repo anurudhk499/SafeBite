@@ -1,3 +1,6 @@
+"engines": {
+  "node": "18.x"
+}
 {
   "name": "food-safety-ai",
   "version": "3.0.0",
