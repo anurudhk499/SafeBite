@@ -29,19 +29,29 @@ DISEASE_WEIGHTS = {
     "gluten": 1.0,
     "lactose": 1.0
 }
-
 # ---------------- LOAD MODELS ----------------
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_DIR = os.path.join(BASE_DIR, "..", "models")
+import os
+from pathlib import Path
 
-risk_model = joblib.load(os.path.join(MODEL_DIR, "risk_model.pkl"))
-scaler = joblib.load(os.path.join(MODEL_DIR, "scaler.pkl"))
-knn = joblib.load(os.path.join(MODEL_DIR, "recommender.pkl"))
+# Get the directory where main.py is located
+BASE_DIR = Path(__file__).parent.absolute()
+MODEL_DIR = BASE_DIR / "models"
 
-product_vectors = np.load(os.path.join(MODEL_DIR, "product_vectors.npy"))
+print(f"Looking for models in: {MODEL_DIR}")
 
-# LOAD WITH CATEGORIES
-product_data = pd.read_csv(os.path.join(MODEL_DIR, "product_names.csv"))
+# Check if models exist
+if not MODEL_DIR.exists():
+    raise FileNotFoundError(f"Models directory not found at: {MODEL_DIR}")
+
+# Load models with explicit paths
+risk_model = joblib.load(MODEL_DIR / "risk_model.pkl")
+scaler = joblib.load(MODEL_DIR / "scaler.pkl")
+knn = joblib.load(MODEL_DIR / "recommender.pkl")
+product_vectors = np.load(MODEL_DIR / "product_vectors.npy")
+product_data = pd.read_csv(MODEL_DIR / "product_names.csv")
+
+print("✓ All models loaded successfully!")
+# ---------------- LOAD MODELS ----------------
 product_names = product_data["product_name"].tolist()
 product_categories = product_data["category"].tolist()
 
@@ -221,3 +231,4 @@ def analyze(payload: dict):
 def health():
 
     return {"status": "ML API running"}
+
