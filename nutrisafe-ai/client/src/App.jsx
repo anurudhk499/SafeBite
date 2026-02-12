@@ -175,7 +175,7 @@ const Onboarding = ({ onComplete }) => {
 
   const fetchDiseases = async () => {
     try {
-      const response = await axios.get(`${API_URL}/diseases`);
+      //const response = await axios.get(`${API_URL}/diseases`);
       setSuggestions(response.data.diseases || []);
     } catch (err) {
       console.log("Using default diseases");
@@ -464,15 +464,7 @@ const Scanner = ({ userProfile, onScanResult }) => {
     };
   }, [mode]);
   
-  useEffect(() => {
-    // Check AI status
-    axios.get(`${API_URL}/ai-stats`).then(res => {
-      setAiStatus(res.data);
-    }).catch(err => {
-      console.log("Could not fetch AI status");
-    });
-  }, []);
-  
+
   const cleanupScanner = () => {
     if (scannerRef.current) {
       try {
