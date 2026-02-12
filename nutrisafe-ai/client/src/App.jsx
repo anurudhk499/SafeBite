@@ -14,7 +14,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 // Replace the hardcoded line with this:
 const API_URL ="https://safebite-g6rb.onrender.com/api"
-
+console.log('🔧 API URL hardcoded to:', API_URL);
 
 // Animation variants
 const fadeIn = {
