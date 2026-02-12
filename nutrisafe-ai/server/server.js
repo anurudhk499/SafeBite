@@ -1415,7 +1415,7 @@ app.post('/api/analyze', async (req, res) => {
             console.log("📤 ML Payload:", JSON.stringify(mlPayload, null, 2));
 
             const mlResponse = await axios.post(
-                `${ML_SERVICE_URL}/analyze",
+               `${ML_SERVICE_URL}/analyze`,  // ✅ CORRECT - backtick at both ends!,
                 mlPayload,
                 { timeout: 8000 }
             );
@@ -1683,6 +1683,7 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log("✅ Mobile Scanner: Optimized");
     
 });
+
 
 
 
