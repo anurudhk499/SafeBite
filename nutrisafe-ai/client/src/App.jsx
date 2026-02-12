@@ -13,11 +13,9 @@ import {
 import { motion, AnimatePresence } from 'framer-motion';
 
 // Replace the hardcoded line with this:
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
+const API_URL ="https://safebite-g6rb.onrender.com/api"
 
-// Add this debug log at the top of your App component:
-console.log('🔗 API URL:', import.meta.env.VITE_API_URL);
-console.log('🌍 Environment:', import.meta.env.MODE);
+
 // Animation variants
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
