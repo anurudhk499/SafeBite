@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 import os
-
+ 
 app = FastAPI(title="NutriSafe AI – ML Engine")
 
 DISEASE_WEIGHTS = {
@@ -219,4 +219,5 @@ def analyze(payload: dict):
 
 @app.get("/")
 def health():
+
     return {"status": "ML API running"}
