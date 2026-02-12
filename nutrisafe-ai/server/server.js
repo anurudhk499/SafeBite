@@ -3,7 +3,7 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const ML_SERVICE_URL = "http://localhost:8000";
+const ML_SERVICE_URL = null;
 
 const app = express();
 app.use(cors());
@@ -1675,3 +1675,4 @@ app.listen(PORT, () => {
     console.log("✅ Mobile Scanner: Optimized");
     
 });
+
