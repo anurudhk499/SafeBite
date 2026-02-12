@@ -1674,7 +1674,6 @@ const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`🚀 Food Safety AI Server v2.1`);
-    console.log(✅ Server listening on port ${PORT} (0.0.0.0));
     console.log(`🔗 http://localhost:${PORT}`);
     console.log(`📊 Cached products: ${Object.keys(productCache).length}`);
     console.log(`💊 Medical conditions: ${Object.keys(MEDICAL_KNOWLEDGE).length}`);
@@ -1684,5 +1683,6 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log("✅ Mobile Scanner: Optimized");
     
 });
+
 
 
