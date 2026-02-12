@@ -3,7 +3,7 @@ const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const ML_SERVICE_URL = null;
+const ML_SERVICE_URL = "https://safebite-ml-service.onrender.com/api";
 
 const app = express();
 app.use(cors());
@@ -1683,6 +1683,7 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log("✅ Mobile Scanner: Optimized");
     
 });
+
 
 
 
