@@ -8,7 +8,15 @@ const ML_SERVICE_URL = null;
 const app = express();
 app.use(cors());
 app.use(express.json());
-
+// Root route for Render health checks
+app.get('/', (req, res) => {
+  res.json({ 
+    status: 'healthy', 
+    message: 'SafeBite API is running',
+    endpoints: ['/api/health', '/api/diseases', '/api/ai-stats', '/api/analyze'],
+    timestamp: new Date().toISOString()
+  });
+});
 // --- ENHANCED MEDICAL KNOWLEDGE BASE ---
 const MEDICAL_KNOWLEDGE = {
     "Diabetes": {
@@ -1664,8 +1672,9 @@ app.post('/api/scan-barcode', async (req, res) => {
 // --- START SERVER ---
 const PORT = process.env.PORT || 5000;
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`🚀 Food Safety AI Server v2.1`);
+    console.log(✅ Server listening on port ${PORT} (0.0.0.0));
     console.log(`🔗 http://localhost:${PORT}`);
     console.log(`📊 Cached products: ${Object.keys(productCache).length}`);
     console.log(`💊 Medical conditions: ${Object.keys(MEDICAL_KNOWLEDGE).length}`);
@@ -1675,4 +1684,5 @@ app.listen(PORT, () => {
     console.log("✅ Mobile Scanner: Optimized");
     
 });
+
 
