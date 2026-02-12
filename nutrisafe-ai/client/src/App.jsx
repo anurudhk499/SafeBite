@@ -12,8 +12,12 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
-const API_URL = "http://localhost:5000/api";
+// Replace the hardcoded line with this:
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000/api";
 
+// Add this debug log at the top of your App component:
+console.log('🔗 API URL:', import.meta.env.VITE_API_URL);
+console.log('🌍 Environment:', import.meta.env.MODE);
 // Animation variants
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
