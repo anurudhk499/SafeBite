@@ -1,5 +1,5 @@
 # 🧠 SafeBite  – Intelligent Food Safety Analyzer
-##“Barcode-Driven Ingredient Risk Analysis for Disease Mitigation & Healthier Alternative Recommendation Using AI”
+## “Barcode-Driven Ingredient Risk Analysis for Disease Mitigation & Healthier Alternative Recommendation Using AI”
 
 SafeBite is an AI-powered food analysis system that helps users make **health-aware dietary decisions** by analyzing packaged food products based on their **ingredients, nutritional values, and personal medical conditions**.
 
