@@ -1,4 +1,4 @@
-# 🧠 SafeBite AI – Intelligent Food Safety Analyzer
+#                                                   🧠 SafeBite  – Intelligent Food Safety Analyzer
 
 SafeBite AI is an AI-powered food analysis system that helps users make **health-aware dietary decisions** by analyzing packaged food products based on their **ingredients, nutritional values, and personal medical conditions**.
 
