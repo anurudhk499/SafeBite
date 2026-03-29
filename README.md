@@ -30,7 +30,7 @@ face difficulty in identifying whether a packaged food product is **safe or harm
 
 # 💡 Solution
 
-SafeBite AI solves this problem by:
+SafeBite solves this problem by:
 
 ✔ Scanning food products using barcode<br>
 ✔ Extracting ingredient & nutritional data<br>
