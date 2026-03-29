@@ -40,7 +40,7 @@ SafeBite AI solves this problem by:
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
 User (Frontend - React)
@@ -68,7 +68,7 @@ Response (Risk + Alternatives)
 
 ---
 
-# 🧠 Machine Learning Pipeline
+#  Machine Learning Pipeline
 
 ### 1️⃣ Data Collection
 
@@ -158,7 +158,7 @@ Final risk is calculated based on:
 
 ---
 
-# 🧪 Example
+# Example
 
 👉 If a diabetic user scans a sugary drink:
 
@@ -321,25 +321,13 @@ npm run dev
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
-* 🌍 Multi-language ingredient detection
-* 📱 Mobile app version
-* 🤖 Advanced deep learning model
-* 📷 Image-based food recognition
+* Multi-language ingredient detection
+* Mobile app version
+* Advanced deep learning model
+* Image-based food recognition
 
----
-
-# 🎯 Conclusion
-
-SafeBite AI provides a smart and practical solution for **personalized food safety analysis** using AI. It empowers users to make healthier dietary choices by combining **data, machine learning, and real-time insights**.
-
----
-
-# 👨‍💻 Author
-
-**Anurudh K**
-AI/ML Developer
 
 ---
 
