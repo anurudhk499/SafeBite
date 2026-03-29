@@ -32,11 +32,11 @@ face difficulty in identifying whether a packaged food product is **safe or harm
 
 SafeBite AI solves this problem by:
 
-✔ Scanning food products using barcode
-✔ Extracting ingredient & nutritional data
-✔ Applying machine learning for risk prediction
-✔ Providing personalized health insights
-✔ Recommending healthier alternatives
+✔ Scanning food products using barcode<br>
+✔ Extracting ingredient & nutritional data<br>
+✔ Applying machine learning for risk prediction<br>
+✔ Providing personalized health insights<br>
+✔ Recommending healthier alternatives<br>
 
 ---
 
